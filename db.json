@@ -15,6 +15,7 @@
     ],
     "dogs": [
         {
+            "id": 1,
             "name": "Buddy",
             "breed": "Labrador Retriever",
             "age": 5,
@@ -22,6 +23,7 @@
             "gender": "Male"
         },
         {
+            "id": 2,
             "name": "Bailey",
             "breed": "German Shepherd",
             "age": 3,
@@ -29,6 +31,7 @@
             "gender": "Male"
         },
         {
+            "id": 3,
             "name": "Lucy",
             "breed": "Golden Retriever",
             "age": 4,
@@ -36,6 +39,7 @@
             "gender": "Female"
         },
         {
+            "id": 4,
             "name": "Daisy",
             "breed": "Beagle",
             "age": 2,
@@ -43,6 +47,7 @@
             "gender": "Female"
         },
         {
+            "id": 5,
             "name": "Max",
             "breed": "Bulldog",
             "age": 6,
@@ -50,6 +55,7 @@
             "gender": "Male"
         },
         {
+            "id": 6,
             "name": "Charlie",
             "breed": "Poodle",
             "age": 7,
@@ -57,6 +63,7 @@
             "gender": "Male"
         },
         {
+            "id": 7,
             "name": "Lola",
             "breed": "Yorkshire Terrier",
             "age": 4,
@@ -64,6 +71,7 @@
             "gender": "Female"
         },
         {
+            "id": 8,
             "name": "Rocky",
             "breed": "Boxer",
             "age": 5,
@@ -71,6 +79,7 @@
             "gender": "Male"
         },
         {
+            "id": 9,
             "name": "Lily",
             "breed": "Dachshund",
             "age": 3,
@@ -78,6 +87,7 @@
             "gender": "Female"
         },
         {
+            "id": 10,
             "name": "Milo",
             "breed": "Siberian Husky",
             "age": 2,
@@ -85,6 +95,7 @@
             "gender": "Male"
         },
         {
+            "id": 11,
             "name": "Sophie",
             "breed": "Basset Hound",
             "age": 4,
@@ -92,6 +103,7 @@
             "gender": "Female"
         },
         {
+            "id": 12,
             "name": "Cooper",
             "breed": "Great Dane",
             "age": 5,
@@ -99,6 +111,7 @@
             "gender": "Male"
         },
         {
+            "id": 13,
             "name": "Molly",
             "breed": "Shih Tzu",
             "age": 3,
@@ -106,6 +119,7 @@
             "gender": "Female"
         },
         {
+            "id": 14,
             "name": "Bear",
             "breed": "Rottweiler",
             "age": 4,
@@ -113,6 +127,7 @@
             "gender": "Male"
         },
         {
+            "id": 15,
             "name": "Chloe",
             "breed": "Bichon Frise",
             "age": 2,
@@ -120,6 +135,7 @@
             "gender": "Female"
         },
         {
+            "id": 16,
             "name": "Oscar",
             "breed": "Pug",
             "age": 6,
@@ -127,6 +143,7 @@
             "gender": "Male"
         },
         {
+            "id": 17,
             "name": "Zoe",
             "breed": "Chihuahua",
             "age": 3,
@@ -134,6 +151,7 @@
             "gender": "Female"
         },
         {
+            "id": 18,
             "name": "Tucker",
             "breed": "Doberman Pinscher",
             "age": 5,
@@ -141,6 +159,7 @@
             "gender": "Male"
         },
         {
+            "id": 19,
             "name": "Ruby",
             "breed": "Australian Shepherd",
             "age": 4,
@@ -148,6 +167,7 @@
             "gender": "Female"
         },
         {
+            "id": 20,
             "name": "Lucky",
             "breed": "Cocker Spaniel",
             "age": 3,
