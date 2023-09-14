@@ -13,7 +13,148 @@
             "postId": 1
         }
     ],
-    "dogs": [],
+    "dogs": [
+        {
+            "name": "Buddy",
+            "breed": "Labrador Retriever",
+            "age": 5,
+            "place": "New York",
+            "gender": "Male"
+        },
+        {
+            "name": "Bailey",
+            "breed": "German Shepherd",
+            "age": 3,
+            "place": "Los Angeles",
+            "gender": "Male"
+        },
+        {
+            "name": "Lucy",
+            "breed": "Golden Retriever",
+            "age": 4,
+            "place": "Chicago",
+            "gender": "Female"
+        },
+        {
+            "name": "Daisy",
+            "breed": "Beagle",
+            "age": 2,
+            "place": "Houston",
+            "gender": "Female"
+        },
+        {
+            "name": "Max",
+            "breed": "Bulldog",
+            "age": 6,
+            "place": "Phoenix",
+            "gender": "Male"
+        },
+        {
+            "name": "Charlie",
+            "breed": "Poodle",
+            "age": 7,
+            "place": "Miami",
+            "gender": "Male"
+        },
+        {
+            "name": "Lola",
+            "breed": "Yorkshire Terrier",
+            "age": 4,
+            "place": "San Francisco",
+            "gender": "Female"
+        },
+        {
+            "name": "Rocky",
+            "breed": "Boxer",
+            "age": 5,
+            "place": "Seattle",
+            "gender": "Male"
+        },
+        {
+            "name": "Lily",
+            "breed": "Dachshund",
+            "age": 3,
+            "place": "Dallas",
+            "gender": "Female"
+        },
+        {
+            "name": "Milo",
+            "breed": "Siberian Husky",
+            "age": 2,
+            "place": "Denver",
+            "gender": "Male"
+        },
+        {
+            "name": "Sophie",
+            "breed": "Basset Hound",
+            "age": 4,
+            "place": "Atlanta",
+            "gender": "Female"
+        },
+        {
+            "name": "Cooper",
+            "breed": "Great Dane",
+            "age": 5,
+            "place": "Boston",
+            "gender": "Male"
+        },
+        {
+            "name": "Molly",
+            "breed": "Shih Tzu",
+            "age": 3,
+            "place": "Philadelphia",
+            "gender": "Female"
+        },
+        {
+            "name": "Bear",
+            "breed": "Rottweiler",
+            "age": 4,
+            "place": "Detroit",
+            "gender": "Male"
+        },
+        {
+            "name": "Chloe",
+            "breed": "Bichon Frise",
+            "age": 2,
+            "place": "San Diego",
+            "gender": "Female"
+        },
+        {
+            "name": "Oscar",
+            "breed": "Pug",
+            "age": 6,
+            "place": "Houston",
+            "gender": "Male"
+        },
+        {
+            "name": "Zoe",
+            "breed": "Chihuahua",
+            "age": 3,
+            "place": "Chicago",
+            "gender": "Female"
+        },
+        {
+            "name": "Tucker",
+            "breed": "Doberman Pinscher",
+            "age": 5,
+            "place": "Los Angeles",
+            "gender": "Male"
+        },
+        {
+            "name": "Ruby",
+            "breed": "Australian Shepherd",
+            "age": 4,
+            "place": "New York",
+            "gender": "Female"
+        },
+        {
+            "name": "Lucky",
+            "breed": "Cocker Spaniel",
+            "age": 3,
+            "place": "Miami",
+            "gender": "Male"
+        }
+    ],
     "profile": {
         "name": "typicode"
     }
